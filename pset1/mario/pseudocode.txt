@@ -1,0 +1,3 @@
+ Promt height
+ diaposon from 1 to 8, if not go step back
+iteration of height
